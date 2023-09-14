@@ -4,8 +4,8 @@ I am a student of American International University-Bangladesh.
 
 
 - 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with get an Internship. 
-- 💬 Ask me about SQL,openGL. 
+- 🤔 I’m looking for help with get an Job. 
+- 💬 Ask me about Python, SQL, openGL. 
 - 📫 How to reach me E-mail: mridulroy0100@gmail.com 
 
 
