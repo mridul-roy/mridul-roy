@@ -4,17 +4,35 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi there 👋, I'm MRIDUL</h1>
-<h3 align="center">Learner, Developer</h3>
+<h1 align="center">Hi 👋, I'm MRIDUL</h1>
+<h4 align="center">Learner, Developer</h4>
 
-<p align="center">I'm a student at American International University-Bangladesh.</p>
+<p align="left">
+  I'm a student at American International University-Bangladesh. I'm passionate about learning and am always looking for new 
+ways to improve my skills<br> <br>
+  🌱 I’m currently learning Python <br>
+  🤔 I’m looking for help with getting a job. <br>
+  💬 Ask me about Python, SQL, openGL.<br>
+  📫 How to reach me: <a href="mailto:mridulroy0100@gmail.com">mridulroy0100@gmail.com</a>
+</p>
+
+<!-- Profile Views -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mridul-roy&style=flat-square&color=blueviolet" alt="Profile Views">
+</p>
 
 <!-- Skills -->
 <h2 align="center">Skills</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-Intermediate-yellow?style=for-the-badge" alt="SQL">
-  <img src="https://img.shields.io/badge/openGL-Beginner-red?style=for-the-badge" alt="openGL">
+  <img src="https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-yellow?style=for-the-badge&logo=sql" alt="SQL">
+  <img src="https://img.shields.io/badge/openGL-Beginner-red?style=for-the-badge&logo=opengl" alt="openGL">
+  <img src="https://img.shields.io/badge/C%23-Intermediate-green?style=for-the-badge&logo=c-sharp" alt="C#">
+  <img src="https://img.shields.io/badge/C++-Intermediate-lightblue?style=for-the-badge&logo=cplusplus" alt="C++">
+  <img src="https://img.shields.io/badge/Linux-Intermediate-orange?style=for-the-badge&logo=linux" alt="Linux">
+  <img src="https://img.shields.io/badge/.NET-Intermediate-purple?style=for-the-badge&logo=dot-net" alt=".NET">
+  <img src="https://img.shields.io/badge/HTML-Intermediate-orange?style=for-the-badge&logo=html5" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-Intermediate-blue?style=for-the-badge&logo=css3" alt="CSS">
 </p>
 
 <!-- Connect with Me -->
@@ -35,8 +53,9 @@
 </p>
 
 <!-- GitHub Streak -->
-<!-- GitHub Streak -->
 <h2 align="center">GitHub Streak</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mridul-roy&theme=dark" alt="GitHub Streak">
 </p>
+
+
