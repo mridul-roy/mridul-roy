@@ -37,5 +37,6 @@
 <!-- GitHub Streak -->
 <h2 align="center">GitHub Streak</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/mridul-roy" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mridul-roy&theme=dark
+ alt="GitHub Streak">
 </p>
