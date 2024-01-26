@@ -9,7 +9,7 @@
 
 <p align="left">
   I'm a student at American International University-Bangladesh. I'm passionate about learning and am always looking for new 
-ways to improve my skills.<br> <br>
+ways to improve my skills<br> <br>
   🌱 I’m currently learning Python. <br>
   🤔 I’m looking for help with getting a job. <br>
   💬 Ask me about Python, SQL, openGL.<br>
