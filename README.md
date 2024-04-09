@@ -5,7 +5,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm MRIDUL</h1>
-<h4 align="center">Learner, Developer</h4>
+<h4 align="center">Learner, Developer.</h4>
 
 <p align="left">
   I'm a student at American International University-Bangladesh. I'm passionate about learning and am always looking for new 
